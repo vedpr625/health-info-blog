@@ -17,10 +17,10 @@ noClasses = false
 unsafe = true
 
 [params]
-author = "Health Informatics Architect"
-description = "Perspectives from the field on building interoperable health systems across Sri Lanka, India, and Mongolia."
-keywords = "health informatics,interoperability,HL7,FHIR,architecture,UNOPS,digital health"
-info = ["Health Informatics Architect", "Interoperability Specialist"]
+author = "Ved Prakash"
+description = "Perspectives from the field on building interoperable health systems — HL7 FHIR, openEHR, IHE, and the Java/Spring engineering behind them — across Sri Lanka, India, and Mongolia."
+keywords = "health informatics,interoperability,HL7,FHIR,SNOMED CT,IHE,openEHR,Java,Spring Boot,architecture,UNOPS,digital health"
+info = ["Java/J2EE Architect, 18+ Years", "HL7 FHIR & SNOMED CT Certified", "CTO, dChikitsa · Co-Founder & CTO, Akhester Technologies"]
 avatarURL = "images/avatar.jpg"
 dateFormat = "January 2, 2006"
 since = 2026
@@ -43,7 +43,7 @@ author = "authors"
 name = "LinkedIn"
 icon = "fa-brands fa-linkedin fa-2x"
 weight = 1
-url = "https://www.linkedin.com/in/yourprofile/"
+url = "https://www.linkedin.com/in/ved-prakash-69632a1a0/"
 
 [[params.social]]
 name = "RSS"

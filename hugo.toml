@@ -28,7 +28,7 @@ rtl = false
 colorScheme = "auto"
 hideColorSchemeToggle = false
 maxSeeAlsoItems = 5
-customCSS = []
+customCSS = ["custom.css"]
 customSCSS = []
 customJS = []
 customRemoteJS = []
@@ -67,3 +67,8 @@ url = "posts/"
 name = "Projects"
 weight = 3
 url = "projects/"
+
+[[menu.main]]
+name = "Videos"
+weight = 4
+url = "videos/"

@@ -1,6 +1,6 @@
 ---
 title: "Why We Run a Dual FHIR + openEHR Architecture (And What It Actually Costs)"
-date: 2026-11-02
+date: 2026-11-01
 tags: ["FHIR", "openEHR", "architecture", "EHRbase", "interoperability"]
 categories: ["engineering"]
 description: "A look at dual-model clinical data architecture — openEHR for structured clinical documentation, FHIR for interoperable exchange — and the real engineering trade-offs behind it."
